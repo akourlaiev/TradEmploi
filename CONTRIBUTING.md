@@ -24,14 +24,16 @@ Former staff:
 
 ## Contributions
 
-We welcome community contributions aimed at improving the templates. To do so please send us a patch to the following email: oss.00619@pole-emploi.fr.
+We welcome community contributions aimed at improving the templates. To contribute, please submit a merge request to the project repository.
 
-Before submitting a patch:
-- Please make sure the all tests are OK
-- If it is an addition of a module, function, functionality, and not a bug fix, please add a corresponding set of unit tests.
-- Please attach a concise explanation of the changes
+Before submitting a merge request:
 
-Improvements will be made continuously by the CORE TEAM.
+- Ensure all tests pass successfully.
+- If you're adding a new module, function, or feature (rather than fixing a bug), please include the corresponding unit tests.
+- Update the documentation to reflect the changes or additions you've made.
+- Provide a clear and concise explanation of the changes made.
+
+The CORE TEAM will continue to make improvements on an ongoing basis.
 
 ## Communcation canal 
 A dedicated Framateam has been created, to join it you need to have an account and follow this link : https://framateam.org/signup_user_complete/?id=bhez4sga5fbbfeue1inbu6kdga&md=link&sbr=su![image](https://github.com/user-attachments/assets/5f724e97-3668-4bfc-b27f-a2578d1a9f2e)
