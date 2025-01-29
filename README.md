@@ -67,9 +67,6 @@ Media tests:
 - [BFMTV video](https://www.bfmtv.com/paris/replay-emissions/bonjour-paris/sncf-une-appli-de-traduction-en-130-langues_VN-202404190143.html)
 - [RTL Podcast](https://www.rtl.fr/actu/debats-societe/tradsncf-comment-fonctionne-l-appli-qui-devra-aider-les-touristes-etrangers-7900375831)
 
-# Usage monitoring
-Connections via Inclusion Connect button: https://stats.inclusion.beta.gouv.fr/public/dashboard/e9f7b6f2-e3af-45e9-84ef-0e91c2ba4c8c
-
 # License
 This project is distributed under the GNU Affero General Public License V3.0. Please read the LICENSE file.
 
