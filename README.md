@@ -68,7 +68,7 @@ Media tests:
 - [RTL Podcast](https://www.rtl.fr/actu/debats-societe/tradsncf-comment-fonctionne-l-appli-qui-devra-aider-les-touristes-etrangers-7900375831)
 
 # Usage monitoring
-Connections via Inclusion Connect button: https://stats.inclusion.beta.gouv.fr/public/dashboard/e9f7b6f2-e3af-45e9-84ef-0e91c2ba4c8c
+Metabase with stats : https://metabase.beta.francetravail.fr/public/dashboard/8b4c4f48-e575-4140-b38d-1c268c5a4de3 
 
 # License
 This project is distributed under the GNU Affero General Public License V3.0. Please read the LICENSE file.
